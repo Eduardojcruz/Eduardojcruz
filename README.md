@@ -1,6 +1,6 @@
 ## Olá! eu sou o Eduardo Cruz
 
-Estudante de Python🐍, HTML e JavaScript
+Estudante de Python🐍
 
 Faço faculdade de Engenharia de Software
 
@@ -14,8 +14,6 @@ Atualmente estou desempregado procurando estágio de DEV
   
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 
