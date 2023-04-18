@@ -4,7 +4,7 @@ Estudante de Python🐍
 
 Faço faculdade de Engenharia de Software
 
-Atualmente estou desempregado procurando estágio de DEV
+
 
 <div align="center">
   <a href="https://github.com/eduardojcruz">
